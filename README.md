@@ -1,8 +1,8 @@
-- Olá, me chamo Henrique, atualmente sou estudante de engenharia da computação no IFCE - Fortaleza, e participo do Lapisco, como desenvolvedor mobile,
-  um laboratório de processamentos de imagens, sinais e ciências da computação, com diversas áreas de pesquisa.
+ ## Olá, me chamo Henrique, sou desenvolvedor mobile
+- Sou estudante de engenharia da computação no IFCE - Fortaleza, e participo do Lapisco, como desenvolvedor mobile, um laboratório de processamentos de imagens, sinais e ciências da computação, com diversas áreas de pesquisa.
 - Atualmente sou estagiário da Cod3r Ensino e Consultoria
 - Comecei usando o Framework Flutter(para desenvolvimento mobile).
-- Atualmente estou estudando desenvolvimento web com JavaScript(Htlm, css) e desenvolvimento mobile com Flutter.
+- Hoje em dia estou estudando desenvolvimento web com JavaScript(Htlm, css) e continuo estudando desenvolvimento mobile com Flutter.
 
 <div align="center">
   <a href="https://github.com/C-Henrique-Almeida">
